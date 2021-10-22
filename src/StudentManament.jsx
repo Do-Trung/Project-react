@@ -63,7 +63,7 @@ export default function StudentManagement(isLogged) {
     setCurrentStudent(null)
   }
   return (
-    <div>
+    <div className="container">
       <h1>Quản lý sinh viên</h1>
       <form className="mb-3">
         <div className="mb-3">
